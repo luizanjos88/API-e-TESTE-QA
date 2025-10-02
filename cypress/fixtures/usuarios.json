@@ -1,0 +1,621 @@
+[
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Laura Pereira",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        },
+        {
+          "id": "85764a5e-d28e-4cea-8fa9-60deeedc19c4",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "27/09/2025",
+          "mes": "Setembro"
+        },
+        {
+          "id": "91c663b0-c4cd-4682-851e-d89993371a56",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "28/09/2025",
+          "mes": "Setembro"
+        },
+        {
+          "id": "7f38e6c8-0ba1-4879-b3ad-3ffebfc6a715",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "28/09/2025",
+          "mes": "Setembro"
+        }
+      ],
+      "saldo": 920
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Luiz Carlos Giachello dos Anjos",
+      "email": "vinny@alura.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "8975791e-b6c4-407c-b7a6-909b138f7710",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "67f927c6-e1db-45ec-b6a5-503d799c1006",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7bc5e813-6f92-46b5-bdc0-d6637156583e",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f86129f8-5351-446d-ac2f-2aeaf9dcd9ff",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "eea11bf2-f912-4bb6-b638-ca45635ef041",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "ce0e55a3-339b-4257-8ee6-84ef9c4d5edf",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f97d573a-2d9c-4722-8853-502199781afa",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "ccf1665a-3d2f-4996-a5cd-34bb283bac6b",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "dc37f299-5197-4df8-8637-0edf9513fbde",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7e1a8790-e843-444a-9c93-62950ab48878",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "08bf9d8c-43fb-44a4-b3e3-c8297c424b1b",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "cffb29d7-afb0-4edf-93ae-db1ec2066677",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "6ff76975-b59a-4708-9d87-3d254c08d5ed",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "830d5990-7bb9-436e-bf48-9fde010ae766",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "a81a2538-3036-4d6a-afb0-0dffe6f4e30f",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "a9b76e03-1ec5-4c73-b48b-5ae410c56080",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "3c8b65ac-9f7a-4522-bdc8-9cbc2321922e",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "9c19d5fc-7fd0-494f-abb5-ec0b4f0b0e50",
+          "tipoTransacao": "Depósito",
+          "valor": "120",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "000508e4-40a9-46c7-8084-101d745f7fa6",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "fec90d1d-fa5c-4a9a-8b61-779d58d6252b",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "9120c59c-2d45-46fc-82a4-4fd3b9819d70",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "4e620e1d-7d04-48b0-9f40-f261bc046c2e",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "d4e2e7b2-0702-46ed-962d-346fdfc9d219",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "6e79faa0-7555-4231-aff9-47b38216a353",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f315bd73-c8c4-4bcf-88ae-a538ba2d0c81",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "59b974fe-c257-406d-ac01-3b6306662778",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "3dd83f82-24ea-41a7-8737-68815542b341",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "d609dcd7-13bf-4a50-953c-8ad8a7af4f7d",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "72affdb1-05f9-4a24-acb1-810776804612",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "63e55db7-892b-45c4-b840-0014e477c0cf",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "86fa0a80-547f-4d59-855b-44dabf112975",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        },
+        {
+          "id": "062e5557-5538-4fbe-b9b5-ab4ed04629a6",
+          "tipoTransacao": "Depósito",
+          "valor": "150",
+          "data": "01/10/2025",
+          "mes": "Outubro"
+        }
+      ],
+      "saldo": 7760
+    },
+    {
+      "id": "1b4d470b-8511-45b2-8c28-60941535407a",
+      "nome": "Gui Lima",
+      "email": "gui@emaili.com",
+      "senha": "456789",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "47f18b8e-dfbd-4183-9d5c-b85e78879979",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos3374@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "286d43a7-2744-4574-9cfe-5f0fc5fb2357",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos3422@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "7387cf0e-da37-4c82-99ef-715db93d2c1a",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos4004@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "59473105-8aab-4ab5-9801-c3833e257964",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos3106@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "98804f0e-f971-4b88-a342-8a044f7efcca",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos6523@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "747fde2c-4f24-4d73-9cb5-54eeb0335692",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos4145@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "eb0c27f9-754c-4953-9aff-b00f03f744f3",
+      "nome": "Luiz Carlos",
+      "email": "luizanjos2592@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "aa0b1f88-9f63-4f47-ab07-1bce2b49fbc0",
+      "nome": "Karla Barros Filho",
+      "email": "luizanjos3643@gmail.com",
+      "senha": "6DVygG13zOg51xJ",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "7401f847-a133-4b91-be50-41e6e1eb7e9b",
+      "nome": "Luiz Carlos Giachello dos Anjos",
+      "email": "luizanjos9137@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "263428f8-4746-4996-9dbb-98f37b3ec6a7",
+      "nome": "Luiz Carlos Giachello dos Anjos",
+      "email": "luizanjos7944@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "98abfbdd-7adf-44bc-9cb9-c239162729cc",
+      "nome": "Luiz Carlos Giachello dos Anjos",
+      "email": "luizanjos7406@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "d889adb8-832d-4696-abaf-4de14c1b28d0",
+      "nome": "Luiz Carlos Giachello dos Anjos",
+      "email": "luizanjos7392@gmail.com",
+      "senha": "Lv1z@2025",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "8a3766f4-7d25-480e-aca7-8c38d58b66a8",
+      "nome": "Maria Helena Oliveira",
+      "email": "Christophe_Luettgen77@gmail.com",
+      "senha": "Iq3czmAKM5P992z",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "180926cc-76bb-4f73-bccd-7901fc056102",
+      "nome": "Connie Mueller",
+      "email": "Mertie_Homenick@gmail.com",
+      "senha": "s67dvC5l9OEvOgU",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "0742dca6-e30f-4c36-a308-566c6ddbc0ed",
+      "nome": "Pedro Henrique Pereira",
+      "email": "Bryan_Moreira53@hotmail.com",
+      "senha": "UD2ZkzZYe5HNgSA",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "1711bd8c-305d-4d02-a3aa-4e98f843b880",
+      "nome": "Dr. Morgana Moraes",
+      "email": "Alcia29@hotmail.com",
+      "senha": "YDQCPzekCrF05g3",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "6aaafde7-090f-472a-982b-83fd205d495c",
+      "nome": "Calebe Santos",
+      "email": "Ricardo.Pereira@yahoo.com",
+      "senha": "_uC5mpaQpN1guDz",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "3df6db16-d3bf-4d50-9fc7-22f16db831bb",
+      "nome": "Gabriel Carvalho",
+      "email": "Natlia_Nogueira@gmail.com",
+      "senha": "h5wibg5uBYOTPTe",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "798eaaae-6229-41d4-a26a-69093a7e808d",
+      "nome": "Eduardo Saraiva",
+      "email": "Alcia_Reis@live.com",
+      "senha": "gRiPX9kAVe6sZw3",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "213ba0c0-c15d-4ddb-ab37-5e795854abcb",
+      "nome": "Hugo Barros",
+      "email": "Guilherme_Albuquerque@bol.com.br",
+      "senha": "ZXeChpwiiQMT2hZ",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "e5ac015c-44e7-4059-bda5-dd895759c810",
+      "nome": "Srta. Isis Saraiva",
+      "email": "Marcela.Costa17@bol.com.br",
+      "senha": "vwOENNNiYblp_o7",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "85176eda-fb74-447e-9ca1-5d8199b246da",
+      "nome": "Dra. Pedro Saraiva",
+      "email": "Danilo30@gmail.com",
+      "senha": "iZyTlIy_CaZsni4",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "5a557fb3-a325-4f73-86ed-68550d8c7574",
+      "nome": "Daniel Batista",
+      "email": "Mrcia_Reis74@yahoo.com",
+      "senha": "RQMG0o5f4bueI5M",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "8e4e85f2-36d5-48ed-ab8d-2183ddf46171",
+      "nome": "Denise Limón I",
+      "email": "Jennifer46@hotmail.com",
+      "senha": "hKMBsTPDidu0Ibx",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "b066c53a-8b58-40ef-88b6-f8e042b15b1e",
+      "nome": "Иван Кудряшов",
+      "email": "Linwood_Purdy@gmail.com",
+      "senha": "MxIf1unlVswSdLK",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "c93252bf-369d-469d-a8e3-eebc06348caf",
+      "nome": "Christodule Fournier",
+      "email": "Dorine_Bertrand88@gmail.com",
+      "senha": "RCpkLS4Sc1FpWxo",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "82eef94f-7ed8-484b-82b5-5d33cc25909a",
+      "nome": "Tamara 공",
+      "email": ".14@hanmail.net",
+      "senha": "Y7WVNb5dc8F7mJ_",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "6e679d12-125d-468f-b0b5-a2ebaf826459",
+      "nome": "Ефимија Васковa",
+      "email": ".@t.mk",
+      "senha": "w9X_v0wEZxwFZaH",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "da62ca1e-c2d8-4076-a481-de13b1d827e7",
+      "nome": "Valentīns Dīriķis",
+      "email": "Trenton51@mail.lv",
+      "senha": "xeGmmdacIJTIS62",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "7f2b16bc-f424-490d-8fdf-e4eea82b6c94",
+      "nome": "Jayda Bosch",
+      "email": "Rick.Bruin@gmail.com",
+      "senha": "IYRwihC0OyNZsKo",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "0188bb69-a1ba-4105-93d2-545d69bb076b",
+      "nome": "Maria Cecília Silva",
+      "email": "AnaClara_Melo46@bol.com.br",
+      "senha": "rkRnn1SFr7D3Q7A",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "f4be5fa6-09a3-4402-82fb-1cf3bcc89705",
+      "nome": "Heitor Saraiva Jr.",
+      "email": "Guilherme38@yahoo.com",
+      "senha": "mQQHOpYmyFz9E1f",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "4bd9aff0-b7ef-4ac9-955f-433f05d26302",
+      "nome": "Cauã Oliveira",
+      "email": "MariaHelena9@hotmail.com",
+      "senha": "kkSSLl2BpYnOHTE",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "eb8d3102-9410-411e-a816-da6b6b7c62dd",
+      "nome": "Fábio Moreira",
+      "email": "Leonardo_Xavier42@bol.com.br",
+      "senha": "0BKWnEgyMpBNbzh",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "36e88314-a58e-48bc-a26b-f292730e0ad6",
+      "nome": "Dr. Bernardo Moraes",
+      "email": "Bencio47@gmail.com",
+      "senha": "_arz8hvdlcDl62L",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "c1bdbd5d-aef6-4943-816f-d4222734a38c",
+      "nome": "Sr. Cauã Melo",
+      "email": "Antnio.Albuquerque41@live.com",
+      "senha": "PdFVgqaiHBMnUBq",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "355af430-d7af-4e70-8328-58a8cfe2aefb",
+      "nome": "Dr. Enzo Gabriel Braga",
+      "email": "EnzoGabriel88@bol.com.br",
+      "senha": "BvFyAJKbub37dEy",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "6597a5d6-7ff2-48e2-a277-e8df82e8b1a4",
+      "nome": "Dr. Silas Braga",
+      "email": "Yasmin2@bol.com.br",
+      "senha": "pPmuoAnEoV5aRk_",
+      "transacoes": [],
+      "saldo": 0
+    }
+  ]
+
+  
