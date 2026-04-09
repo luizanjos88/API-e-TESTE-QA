@@ -2,9 +2,11 @@ import { Route, Routes } from 'react-router-dom';
 
 import PaginaPadrao from 'paginas/PaginaPadrao';
 import Home from 'paginas/Home';
-import Cartoes from './paginas/Home/Cartoes';
-import Investimentos from './paginas/Home/Investimentos';
-import Servicos from './paginas/Home/Servicos';
+import Contratos from './paginas/Home/Contratos';
+import Produtos from './paginas/Home/Produtos';
+import Pedidos from './paginas/Home/Pedidos';
+import Cardapio from './paginas/Home/Cardapio';
+import Refeicoes from './paginas/Home/Refeicoes';
 import Inicio from 'paginas/Inicio';
 import Pagina404 from 'paginas/Pagina404';
 import { HomeProvider } from 'common/context/HomeContext';
@@ -21,9 +23,11 @@ export default function AppRoutes() {
             <Route path="/" element={<PaginaPadrao />}>
               <Route path="/" element={<Inicio />} />
               <Route path="/home" element={<Home />}>
-                <Route path="cartoes" element={<Cartoes />} />
-                <Route path="investimentos" element={<Investimentos />} />
-                <Route path="servicos" element={<Servicos />} />
+                <Route path="contratos" element={<Contratos />} />
+                <Route path="produtos" element={<Produtos />} />
+                <Route path="pedidos" element={<Pedidos />} />
+                <Route path="cardapio" element={<Cardapio />} />
+                <Route path="refeicoes" element={<Refeicoes />} />
               </Route>
               <Route path="/minha-conta" element={<MinhaConta />} />
             </Route>

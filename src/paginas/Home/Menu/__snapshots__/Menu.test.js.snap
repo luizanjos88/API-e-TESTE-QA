@@ -4,27 +4,39 @@ exports[`Deve renderizar os links com a classe link 1`] = `
 Array [
   <a
     class="link false"
-    href="/"
+    href="/home"
   >
-    Início
+    Dashboard
   </a>,
   <a
     class="link false"
-    href="/cartoes"
+    href="/home/contratos"
   >
-    Cartões
+    Contratos
   </a>,
   <a
     class="link false"
-    href="/servicos"
+    href="/home/produtos"
   >
-    Serviços
+    Produtos
   </a>,
   <a
     class="link false"
-    href="/investimentos"
+    href="/home/pedidos"
   >
-    Investimentos
+    Pedidos
+  </a>,
+  <a
+    class="link false"
+    href="/home/cardapio"
+  >
+    Cardápio
+  </a>,
+  <a
+    class="link false"
+    href="/home/refeicoes"
+  >
+    Refeições
   </a>,
 ]
 `;

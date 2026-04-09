@@ -3,11 +3,12 @@ import { Link } from 'react-router-dom';
 import estilos from './Menu.module.css';
 
 const listaMenu = [
-  { link: 'Início', href: '/home' },
-  { link: 'Minha conta', href: '/minha-conta' },
-  { link: 'Cartões', href: '/home/cartoes' },
-  { link: 'Serviços', href: '/home/servicos' },
-  { link: 'Investimentos', href: '/home/investimentos' },
+  { link: 'Dashboard', href: '/home' },
+  { link: 'Contratos', href: '/home/contratos' },
+  { link: 'Produtos', href: '/home/produtos' },
+  { link: 'Pedidos', href: '/home/pedidos' },
+  { link: 'Cardápio', href: '/home/cardapio' },
+  { link: 'Refeições', href: '/home/refeicoes' },
 ];
 
 export default function Menu({ path }) {
