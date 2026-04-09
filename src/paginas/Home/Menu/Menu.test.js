@@ -2,16 +2,16 @@ import { render, screen } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
 import Menu from './index';
 
-test('Deve renderizar o link para a página inicial', () => {
+test('Deve renderizar o link para o Dashboard', () => {
   render(<Menu />, { wrapper: BrowserRouter });
-  const linkPaginaInicial = screen.getByText('Início');
-  expect(linkPaginaInicial).toBeInTheDocument();
+  const linkDashboard = screen.getByText('Dashboard');
+  expect(linkDashboard).toBeInTheDocument();
 });
 
-test('Deve renderizar uma lista com quatro links', () => {
+test('Deve renderizar uma lista com seis links', () => {
   render(<Menu />, { wrapper: BrowserRouter });
   const linksPaginaInicial = screen.getAllByRole('link');
-  expect(linksPaginaInicial).toHaveLength(4);
+  expect(linksPaginaInicial).toHaveLength(6);
 });
 
 test('Não deve renderizar o link de Extrato', () => {
